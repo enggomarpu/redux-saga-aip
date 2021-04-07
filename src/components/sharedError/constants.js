@@ -1,0 +1,8 @@
+export const REQUIRED_MESSAGE = "This field is required."
+export const INVALID_EMAIL_MESSAGE = "Invalid Email."
+export const First_Alphabet_Must_Be_Capital = "First Alphabet Must Be Capital"
+export const Phone_Number = "Invalid Format"
+export const Integers = "Invalid Format"
+export const Comapany_Name = "Invalid Format"
+export const Address = "Invalid Address"
+export const CONFIRM_PASSWORD = "Password does not match"
